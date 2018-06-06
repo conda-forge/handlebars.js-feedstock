@@ -18,12 +18,15 @@ and continue using your current templates.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/handlebars.js-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/handlebars.js-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/handlebars.js-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/handlebars.js-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/handlebars.js/badges/version.svg)](https://anaconda.org/conda-forge/handlebars.js)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/handlebars.js/badges/downloads.svg)](https://anaconda.org/conda-forge/handlebars.js)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-handlebars.js-green.svg)](https://anaconda.org/conda-forge/handlebars.js) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/handlebars.js.svg)](https://anaconda.org/conda-forge/handlebars.js) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/handlebars.js.svg)](https://anaconda.org/conda-forge/handlebars.js) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/handlebars.js.svg)](https://anaconda.org/conda-forge/handlebars.js) |
 
 Installing handlebars.js
 ========================
