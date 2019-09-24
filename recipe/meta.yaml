@@ -1,6 +1,6 @@
 {% set name = "handlebars.js" %}
-{% set version = "4.2.1" %}
-{% set sha256 = "b384a03e3bdf56be0dc50201c5925317c55c2eb7eecee54556afa50c79874da9" %}
+{% set version = "4.3.0" %}
+{% set sha256 = "d418ba1840ad7040e6cbf3143a30e4512608cceb25ea9ccb5b56f0d891dbca8c" %}
 
 package:
   name: {{ name|lower }}
