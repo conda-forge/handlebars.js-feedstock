@@ -41,8 +41,3 @@ about:
     and continue using your current templates. 
   doc_url: https://www.sitepoint.com/a-beginners-guide-to-handlebars/
   dev_url: https://github.com/wycats/handlebars.js/
-
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
