@@ -1,6 +1,6 @@
 {% set name = "handlebars.js" %}
-{% set version = "4.5.3" %}
-{% set sha256 = "19c51a050808a97a5a3bbc184a441b96de7c9f26163a61ac2f1e5d604ce4de18" %}
+{% set version = "4.7.3" %}
+{% set sha256 = "b85ea7902a16889995d61160deeb0237963dcece38de0f6bd5ee6bd908a262e9" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-  
+
 test:
   commands:
     - npm list -g handlebars
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/wycats/handlebars.js/
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.'
+  summary: Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
   description: |
     Handlebars provides the power necessary to let you build semantic templates 
     effectively with no frustration. Handlebars is largely compatible with Mustache 
